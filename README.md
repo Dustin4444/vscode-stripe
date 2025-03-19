@@ -38,3 +38,37 @@ This repository is for providing feedback on the Stripe VS Code extension. You c
 ## Telemetry
 
 The Stripe VS Code Extension collects basic telemetry in order to improve this extension's experience. If you'd like to opt out we respect the [global telemetry setting in VS Code](https://code.visualstudio.com/docs/getstarted/telemetry), so we won't collect any data unless this setting is turned on.
+
+## Enhanced Documentation
+
+### Detailed Documentation and Examples
+
+To help you get started with the Stripe extension, we have provided detailed documentation and examples. These examples cover common use cases and workflows, making it easier for you to integrate Stripe into your projects.
+
+### Video Tutorials and GIFs
+
+We have created video tutorials and GIFs to demonstrate common workflows and features of the Stripe extension. These visual aids will help you understand how to use the extension effectively.
+
+### FAQ
+
+#### How do I install the Stripe extension for Visual Studio Code?
+
+You can install the Stripe extension from the Visual Studio Code Marketplace. Simply search for "Stripe" and click "Install".
+
+#### How do I generate sample code using the Stripe extension?
+
+To generate sample code, open the Stripe panel in the activity bar, select your preferred language, and choose the desired code snippet. The sample code will be inserted into your active editor window.
+
+#### How do I view API request logs?
+
+You can view API request logs by opening the Stripe panel in the activity bar and selecting the "API Logs" tab. This will display a list of recent API requests and their details.
+
+#### How do I forward events to my application?
+
+To forward events to your application, open the Stripe panel in the activity bar, select the "Events" tab, and click "Forward Events". Enter your application's endpoint URL and click "Save".
+
+#### How do I provide feedback on the Stripe extension?
+
+You can provide feedback by opening an issue in this repository or by using the "Provide Feedback" button in the Stripe panel in the activity bar.
+
+If you have any other questions or need further assistance, please refer to the official Stripe documentation or open an issue in this repository.
